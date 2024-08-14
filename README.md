@@ -1,1 +1,1 @@
-# Checkers_Game
+Required: pygame
