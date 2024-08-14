@@ -1,5 +1,5 @@
 
-## Checkers Game 💻 
+## Checkers Game 🕹
 
 
 # Overview
