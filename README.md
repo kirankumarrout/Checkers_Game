@@ -1,5 +1,5 @@
 
-## Checkers Game 💻 ![image](https://github.com/user-attachments/assets/84018bcf-05fc-4e46-9efc-c2b30a0e7efb)
+## Checkers Game 💻 
 
 
 ### Overview
